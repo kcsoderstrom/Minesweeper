@@ -1,3 +1,5 @@
+#this is kc's version
+
 require_relative 'board'
 
 class Game
